@@ -9,7 +9,8 @@ For a bug report, please include:
 - A short description and steps to reproduce the problem.
 - What you expected and what actually happened.
 - Your device model, iOS or iPadOS version, and app version or build, if available.
-- A screenshot or screen recording, if it helps explain the issue.
+- A screenshot or screen recording, with private prompt text removed.
+- For scoring issues, whether the result was partial, an approximate time, and the visible error. There is no need to share the original prompt.
 
 Issues are public. Please remove personal information from screenshots and do not post passwords, access tokens, or other sensitive information.
 
